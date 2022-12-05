@@ -331,6 +331,7 @@ iOSInjectionProject/
 Packages
 xcuserdata
 *.xcodeproj
+.DS_Store
 
 
 ### SwiftPM ###
